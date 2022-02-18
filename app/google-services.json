@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92809349591",
+    "project_id": "fir-migration-test-6425b",
+    "storage_bucket": "fir-migration-test-6425b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92809349591:android:caec202015f6ee87046392",
+        "android_client_info": {
+          "package_name": "com.example.firebase_migration_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92809349591-43tc3ok8va7g7hm8m8k465e56l4j4krl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqRJqJ2x9QVIt0ISJn8zJ_cTzO13KHaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92809349591-43tc3ok8va7g7hm8m8k465e56l4j4krl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
